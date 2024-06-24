@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
-		<TargetFrameworks>netstandard2.1;net6.0</TargetFrameworks>
+		<TargetFrameworks>netstandard2.1;</TargetFrameworks>
 		<AssemblyName>CleanMoq</AssemblyName>
 		<NoWarn>$(NoWarn);0419;CS8032</NoWarn>
 		<TreatWarningsAsErrors>true</TreatWarningsAsErrors>
